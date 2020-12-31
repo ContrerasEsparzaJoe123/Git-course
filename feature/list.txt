@@ -1,2 +1,2 @@
 1. hello
-2. This line was modified locally.
+2. this line was edited in remote repository.
